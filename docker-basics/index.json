@@ -3,8 +3,8 @@
   "description": "Learn basic Docker commands and concepts in this interactive tutorial. You will run a container, list running containers, and clean up afterwards.",
   "duration": "10 minutes",
   "difficulty": "Beginner",
-  "environment": {
-    "docker": "latest"
+  "backend": {
+    "imageid": "ubuntu"
   },
   "steps": [
     {
