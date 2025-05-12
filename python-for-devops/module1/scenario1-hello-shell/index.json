@@ -1,0 +1,18 @@
+{
+  "title": "Hello DevOps Shell",
+  "description": "Run your first Python script and REPL session.",
+  "difficulty": "beginner",
+  "environment": {
+    "image": "ubuntu:24.04"
+  },
+  "steps": [
+    {
+      "title": "Start Python REPL",
+      "text": "Launch the Python REPL by typing `python3`."
+    },
+    {
+      "title": "Write and Run Script",
+      "text": "Create a file named `hello.py` with a print statement and execute it."
+    }
+  ]
+}
