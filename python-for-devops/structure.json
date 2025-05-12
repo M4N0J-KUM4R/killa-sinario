@@ -1,0 +1,7 @@
+{
+  "title": "Python for DevOps",
+  "description": "Hands-on labs for Python fundamentals in DevOps workflows.",
+  "items": [
+    { "path": "module1", "title": "Module 1: Python Basics" }
+  ]
+}
