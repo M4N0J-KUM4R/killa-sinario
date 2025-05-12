@@ -2,12 +2,7 @@
   "title": "Python for DevOps",
   "description": "Hands-on labs for Python fundamentals in DevOps workflows.",
   "type": "course",
-  "difficulty": "beginner",
-  "icon": "fa-python",
   "items": [
-    {
-      "title": "Module 1: Python Basics",
-      "path": "module1"
-    }
+    { "title": "Module 1: Python Basics", "path": "module1" }
   ]
 }
