@@ -1,0 +1,11 @@
+{
+  "title": "Module 1: Python Basics",
+  "description": "Learn Python fundamentals through DevOps-focused labs.",
+  "items": [
+    { "path": "scenario1-hello-shell" },
+    { "path": "scenario2-variables" },
+    { "path": "scenario3-conditionals" },
+    { "path": "scenario4-functions" },
+    { "path": "scenario5-file-io" }
+  ]
+}
