@@ -1,11 +1,29 @@
 {
   "title": "Module 1: Python Basics",
   "description": "Learn Python fundamentals through DevOps-focused labs.",
+  "type": "module",
+  "difficulty": "beginner",
+  "icon": "fa-terminal",
   "items": [
-    { "path": "scenario1-hello-shell" },
-    { "path": "scenario2-variables" },
-    { "path": "scenario3-conditionals" },
-    { "path": "scenario4-functions" },
-    { "path": "scenario5-file-io" }
+    {
+      "title": "Scenario 1: Hello DevOps Shell",
+      "path": "scenario1-hello-shell"
+    },
+    {
+      "title": "Scenario 2: Variable Inspector",
+      "path": "scenario2-variables"
+    },
+    {
+      "title": "Scenario 3: Conditional Service Monitor",
+      "path": "scenario3-conditionals"
+    },
+    {
+      "title": "Scenario 4: Function Factory",
+      "path": "scenario4-functions"
+    },
+    {
+      "title": "Scenario 5: Log File Analyzer",
+      "path": "scenario5-file-io"
+    }
   ]
 }
