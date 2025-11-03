@@ -1,0 +1,17 @@
+{
+  "title": "Docker",
+  "description": "Hands-on labs for Docker fundamentals in DevOps workflows.",
+  "type": "course",
+  "items": [
+    { "title": "What is Docker", "path": "module1" },
+    { "title": "Docker Architecture", "path": "module2" },
+    { "title": "The 3 Core Components", "path": "module3" },
+    { "title": "Containers", "path": "module4" },
+    { "title": "Images", "path": "module5" },
+    { "title": "Dockerfile", "path": "module6" },
+    { "title": "Volumes", "path": "module7" },
+    { "title": "Networks", "path": "module8" },
+    { "title": "Docker-Compose", "path": "module9" },
+    { "title": "Multi-Stage Builds", "path": "module10" }
+  ]
+}
