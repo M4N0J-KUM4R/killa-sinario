@@ -1,0 +1,8 @@
+{
+  "title": "Docker என்றால் என்ன?",
+  "description": "டோக்கர் அடிப்படை",
+  "type": "module",
+  "items": [
+    { "title": "Docker என்றால் என்ன?",       "path": "scenario1" },
+  ]
+}
