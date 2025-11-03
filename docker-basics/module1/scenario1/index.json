@@ -1,0 +1,39 @@
+{
+  "title": "Docker-ஐ கப் நூடுல்ஸ் போல எளிதாகக் கற்கலாம்!",
+  "description": "Docker-இன் கடினமான விஷயங்களை எளிமையான உதாரணங்கள் மூலம் புரிந்து கொள்ளுங்கள்.",
+  "difficulty": "beginner",
+  "time": "15 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Docker என்றால் என்ன?",
+        "text": "step1.md"
+      },
+      {
+        "title": "Docker-இன் 3 முக்கியப் பாகங்கள்",
+        "text": "step2.md"
+      },
+      {
+        "title": "உங்கள் முதல் 'Hello World' கண்டெய்னர்",
+        "text": "step3.md"
+      },
+      {
+        "title": "உங்கள் சொந்த இமேஜை உருவாக்குதல்",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mஉங்கள் டெர்மினல் தயாராக உள்ளது! தொடரவும்.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "docker"
+  }
+}
