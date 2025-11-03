@@ -10,7 +10,7 @@
     "steps": [
       {
         "title": "Docker என்றால் என்ன?",
-        "text": "step1.md"
+        "text": "step1/text.md"
       }
     ]
   },
